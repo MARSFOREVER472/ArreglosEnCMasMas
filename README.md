@@ -6,6 +6,7 @@
 
 ## Código para recorrer un arreglo de forma automática:
 
+```
 #include <iostream>
 
 
@@ -31,3 +32,4 @@ while (contador<5){ // Mientras sea menor que 5 (Explicacion abajo)
 system("pause");
 
 }
+```
