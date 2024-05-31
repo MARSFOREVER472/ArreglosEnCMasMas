@@ -5,3 +5,29 @@
 - **_Aunque podríamos hacerlo manualmente indicando de forma directa el índice de la casilla que vamos a consultar por ejemplo "```arreglo[3]=100;```" esto solo es recomendable en arreglos pequeños, si vamos a manejar 20, 50, 100 o más elementos se requiere simplificar todo el proceso automatizándolo._**
 
 ## Código para recorrer un arreglo de forma automática:
+
+#include <iostream>
+
+
+
+using namespace std;
+
+int main(){
+
+int contador=0; // Empieza en 10
+
+string arreglo[5]={"primer dato", "segundo texto", "80", "titulo", "fin"};
+
+
+
+while (contador<5){ // Mientras sea menor que 5 (Explicacion abajo)
+
+    cout << arreglo[contador] << endl; // Imprimimos una casilla del arreglo (Explicacion abajo)
+
+    contador++; // Incrementamos el valor de contador en 1 con cada vuelta del bucle
+
+}
+
+system("pause");
+
+}
