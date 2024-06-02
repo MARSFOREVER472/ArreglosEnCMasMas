@@ -36,5 +36,5 @@ system("pause");
 
 ![image](https://github.com/MARSFOREVER472/ArreglosEnCMasMas/assets/69094327/ade94c38-b59d-440a-971c-3e1cb3caa53e)
 
-- **_El arreglo lo hemos creado de tipo string para que soporte texto y no solo números, el bucle while se ejecutará mientras contador sea menor que 5, quizá se pregunte ¿por que siendo que nuestro arreglo tiene 5 índices el bucle while lo condicionamos a ejecutarse mientras sea menor a 5?, bueno eso se debe a que los índices de nuestro arreglo van desde el 0 hasta el 4 porque los arreglos empiezan en 0 por eso nuestro contador lo hemos inicializado a 0, de 0 a 4 hay 5 números, así que nuestro bucle se ejecutará 5 veces._**
+- **_El arreglo lo hemos creado de tipo string para que soporte texto y no solo números, el bucle while se ejecutará mientras contador sea menor que 5, quizá se pregunte ¿por qué siendo que nuestro arreglo tiene 5 índices el bucle while lo condicionamos a ejecutarse mientras sea menor a 5?, bueno eso se debe a que los índices de nuestro arreglo van desde el 0 hasta el 4 porque los arreglos empiezan en 0 por eso nuestro contador lo hemos inicializado a 0, de 0 a 4 hay 5 números, así que nuestro bucle se ejecutará 5 veces._**
 - **_El contador nos sirve para limitar la cantidad de veces que se ejecutará y también para indicar la casilla del arreglo que se imprimirá con ayuda de la función cout._**
