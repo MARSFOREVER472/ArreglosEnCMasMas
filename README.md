@@ -87,4 +87,4 @@ system("pause");
 
 ![image](https://github.com/MARSFOREVER472/ArreglosEnCMasMas/assets/69094327/09924d54-8aa2-4739-a6a6-0d8c964e3f8c)
 
-_Explicare acerca de esta sentencia "arreglo[contador]=contador+1;", con ella lo que hacemos es guardar en la casilla actual dependiendo del valor de "contador" un número que va a ser igual al valor actual de contador + 1 de esta forma si contador vale 0 entonces se guardara el valor 1, si contador vale 19 se guardará el valor 20, pero en la casilla 19 porque van desde el 0 hasta el 20, en resumen este Codigazo rellena el arreglo con 20 valores y los imprime luego._
+**_Explicare acerca de esta sentencia "arreglo[contador]=contador+1;", con ella lo que hacemos es guardar en la casilla actual dependiendo del valor de "contador" un número que va a ser igual al valor actual de contador + 1 de esta forma si contador vale 0 entonces se guardara el valor 1, si contador vale 19 se guardará el valor 20, pero en la casilla 19 porque van desde el 0 hasta el 20, en resumen este Codigazo rellena el arreglo con 20 valores y los imprime luego._**
