@@ -43,7 +43,7 @@ system("pause");
 
 **_Para este código utilizaremos como base el código anterior, pero añadiremos 20 números de forma automática recorriendo el arreglo con un bucle y luego otro bucle para consultar los valores guardados en él._**
 
-
+```
 #include <iostream>
 
 
@@ -83,4 +83,4 @@ while (contador<20){
 system("pause");
 
 }
-
+```
