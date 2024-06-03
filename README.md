@@ -41,4 +41,4 @@ system("pause");
 
 ## Ingresar 20 números de forma automática en un arreglo y luego imprimirlos
 
-_Para este código utilizaremos como base el código anterior, pero añadiremos 20 números de forma automática recorriendo el arreglo con un bucle y luego otro bucle para consultar los valores guardados en él._
+**_Para este código utilizaremos como base el código anterior, pero añadiremos 20 números de forma automática recorriendo el arreglo con un bucle y luego otro bucle para consultar los valores guardados en él._**
