@@ -84,3 +84,5 @@ system("pause");
 
 }
 ```
+
+![image](https://github.com/MARSFOREVER472/ArreglosEnCMasMas/assets/69094327/09924d54-8aa2-4739-a6a6-0d8c964e3f8c)
