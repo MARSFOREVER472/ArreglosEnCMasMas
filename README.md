@@ -42,3 +42,45 @@ system("pause");
 ## Ingresar 20 números de forma automática en un arreglo y luego imprimirlos
 
 **_Para este código utilizaremos como base el código anterior, pero añadiremos 20 números de forma automática recorriendo el arreglo con un bucle y luego otro bucle para consultar los valores guardados en él._**
+
+
+#include <iostream>
+
+
+
+using namespace std;
+
+
+
+int main(){
+
+
+
+int contador=0;
+
+int arreglo[20]; // Creamos un arreglo de tipo numerico vacio
+
+
+
+while (contador<20){
+
+ arreglo[contador]=contador+1;// Explicacion abajo
+
+    contador++;
+
+}
+
+contador=0; // Reseteamos el valor a 0 porque tras el bucle anterior su valor es 20
+
+while (contador<20){
+
+    cout << arreglo[contador] << endl;
+
+    contador++;
+
+}
+
+system("pause");
+
+}
+
