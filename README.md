@@ -40,3 +40,5 @@ system("pause");
 - **_El contador nos sirve para limitar la cantidad de veces que se ejecutará y también para indicar la casilla del arreglo que se imprimirá con ayuda de la función ```cout```._**
 
 ## Ingresar 20 números de forma automática en un arreglo y luego imprimirlos
+
+Para este código utilizaremos como base el código anterior, pero añadiremos 20 números de forma automática recorriendo el arreglo con un bucle y luego otro bucle para consultar los valores guardados en él.
